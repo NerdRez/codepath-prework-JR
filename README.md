@@ -41,10 +41,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+![add & remove buttons] https://recordit.co/ecIiSEuvsI
+![picture mode] https://recordit.co/IE6XOSmxaP
+![3 strikes] https://recordit.co/kGbJbfkJwB
+![speed increase] https://recordit.co/caLaKEaNG
 
 ## Reflection Questions
 
